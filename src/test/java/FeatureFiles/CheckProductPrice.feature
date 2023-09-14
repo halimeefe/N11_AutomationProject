@@ -1,4 +1,7 @@
 
+
+
+@Parallel
 Feature: Location Specific Delivery Control
 
 
@@ -22,7 +25,8 @@ Feature: Location Specific Delivery Control
 
 
 
-#  Bu senaryo bir e-ticaret sitesinde  konuma özel teslimat seçeneği kullanılarak ürün fiyatı
+#  Bu proje bir e-ticaret sitesinde  konuma özel teslimat seçeneği kullanılarak ürün fiyatı
 #  kontrol edilmesi için tasarlanmıştır.Sepetteki fiyat ile konuma özel fiyat arasındaki tutarsızlık tespit edilip
-#  doğrulaması yapılmıştır.Sonuçlar ScreenShot alınarak Excel Report ile belgelenmiştir.
+#  doğrulaması yapılmıştır.Projede Cucumber BDD Framework kullanılmıştır.Sonuçlar ScreenShot alınarak tarih ve saatiyle
+#  birlikte Excel Report ile belgelenmiştir.
 #
